@@ -11,8 +11,8 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.8",
-	"appid": "wx42fc2e8b4292d25f",
+	"libVersion": "1.9.98",
+	"appid": "wxa67ed20624f94c25",
 	"projectname": "MusicLink",
 	"isGameTourist": false,
 	"condition": {
@@ -33,18 +33,18 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 0,
+			"current": -1,
 			"list": [
 				{
 					"id": -1,
-					"name": "post_debug",
-					"pathName": "pages/post/post",
+					"name": "world",
+					"pathName": "pages/world/world",
 					"query": ""
 				},
 				{
-					"id": -1,
-					"name": "test",
-					"pathName": "pages/test/test",
+					"id": 1,
+					"name": "me",
+					"pathName": "pages/me/me",
 					"query": ""
 				}
 			]
