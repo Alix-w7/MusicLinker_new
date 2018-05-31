@@ -1,0 +1,36 @@
+
+page{
+  background-color:#ecebd8;
+}
+
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-avatar {
+  width: 128rpx;
+  height:128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+ .app-avatar{
+  width: 200rpx;
+  height: 200rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+} 
+
+.start-btn{
+  margin-top: 200px;
+}
+  
+.enter-post-btn{
+  margin-top: 200px;
+}
